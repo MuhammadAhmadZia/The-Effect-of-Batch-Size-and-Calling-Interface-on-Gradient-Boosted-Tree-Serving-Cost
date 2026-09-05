@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software or the measurements it contains, please cite both the paper and this archive."
+title: "Batch Size and Calling Interface in Gradient Boosted Tree Serving: replication package"
+abstract: >-
+  Replication package for a study measuring per-row inference latency of LightGBM,
+  XGBoost and CatBoost across nine serving interfaces and thirteen batch sizes at three
+  model sizes, on a single thread, with two independent runs.
+type: software
+license: MIT
+version: 1.0.0
+date-released: "2026-09-05"
+authors:
+  - family-names: Abu-Zanona
+    given-names: Marwan
+    affiliation: "Department of Management Information Systems, College of Business Administration, King Faisal University, Al-Ahsa, 31982, Saudi Arabia"
+  - family-names: Al-Dairi
+    given-names: Maryam
+    affiliation: "Department of Management Information Systems, College of Business Administration, King Faisal University, Al-Ahsa, 31982, Saudi Arabia"
+  - family-names: Rahamatalla
+    given-names: Lamia Hassan
+    affiliation: "Department of Management Information Systems, College of Business Administration, King Faisal University, Al-Ahsa, 31982, Saudi Arabia"
+  - family-names: Almousa
+    given-names: Najla Abdulaziz
+    affiliation: "Department of Management Information Systems, College of Business Administration, King Faisal University, Al-Ahsa, 31982, Saudi Arabia"
+  - family-names: Abubakr
+    given-names: Hebah Abdullah
+    affiliation: "Department of Management Information Systems, College of Business Administration, King Faisal University, Al-Ahsa, 31982, Saudi Arabia"
+  - family-names: Zia
+    given-names: Muhammad Ahmad
+    orcid: "https://orcid.org/0000-0002-3208-6246"
+    affiliation: "Department of Computer Science & IT, The University of Lahore, Lahore, 54000, Pakistan"
+    email: hello@ahmadzia.com
+    website: "https://www.ahmadzia.com"
+  - family-names: Ikram
+    given-names: Atif
+    orcid: "https://orcid.org/0000-0003-0784-0558"
+    affiliation: "Department of Computer Science & IT, The University of Lahore, Lahore, 54000, Pakistan; Faculty of Computer Science and Mathematics, Universiti Malaysia Terengganu, Malaysia"
+contact:
+  - family-names: Zia
+    given-names: Muhammad Ahmad
+    email: hello@ahmadzia.com
+keywords:
+  - gradient boosted decision trees
+  - inference latency
+  - model serving
+  - green machine learning
+  - sustainable inference
+  - ONNX Runtime
+  - benchmarking
+repository-code: "https://github.com/MuhammadAhmadZia/gbdt-serving-interface-benchmark"
+url: "https://www.ahmadzia.com"

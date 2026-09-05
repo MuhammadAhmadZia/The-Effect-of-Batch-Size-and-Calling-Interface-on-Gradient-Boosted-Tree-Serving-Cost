@@ -1,0 +1,13 @@
+# Pinned to the versions used for the reported measurements.
+lightgbm==4.7.0
+xgboost==3.4.1
+catboost==1.2.10
+onnxruntime==1.24.4
+onnxmltools
+skl2onnx
+onnx
+scikit-learn
+numpy
+pandas
+matplotlib
+openpyxl
